@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>ua.uniqa.app</string>
+				<string>ua.uniqa.ukraine.app</string>
 				<key>bundle-version</key>
-				<string>0.0.1</string>
+				<string>1.17.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
